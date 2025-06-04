@@ -6,8 +6,9 @@ chieved Objectives:
 2. Leveraged Power BI for data visualization.
 3. Used DAX to create advanced calculations and measures
 
-4. AUTHOR
 
-5. MUHAMMED RAZAL
+ AUTHOR
+ 
+ MUHAMMED RAZAL
 
-6. muhammedrazal7@gmail.com
+muhammedrazal7@gmail.com
